@@ -1,0 +1,82 @@
+<_>
+   <form_key>gPf28aZ6UbmHt8CQ</form_key>
+   <name>Magentocz_Cestina</name>
+   <channel>community</channel>
+   <version_ids>
+      <version_ids>2</version_ids>
+   </version_ids>
+   <summary>Čeština pro Magento - balíček poskytovaný českou komunitou</summary>
+   <description>Lokalizace Magenta do češtiny.
+
+Základ je brán z https://crowdin.com/project/magento-1 a doplňeno.</description>
+   <license>OSL v3</license>
+   <license_uri/>
+   <version>1.0.0</version>
+   <stability>stable</stability>
+   <notes>První verze. Support na http://magento.cz</notes>
+   <authors>
+      <name>
+         <name>Jaromír</name>
+      </name>
+      <user>
+         <user>jaromirmuller</user>
+      </user>
+      <email>
+         <email>jaromir.muller@getready.cz</email>
+      </email>
+   </authors>
+   <depends_php_min>5.2.0</depends_php_min>
+   <depends_php_max>6.0.0</depends_php_max>
+   <depends>
+      <package>
+         <name>
+            <name/>
+         </name>
+         <channel>
+            <channel/>
+         </channel>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+         <files>
+            <files>  </files>
+         </files>
+      </package>
+      <extension>
+         <name>
+            <name>Core</name>
+         </name>
+         <min>
+            <min/>
+         </min>
+         <max>
+            <max/>
+         </max>
+      </extension>
+   </depends>
+   <contents>
+      <target>
+         <target>magelocal</target>
+         <target>magelocale</target>
+      </target>
+      <path>
+         <path/>
+         <path>cs_CZ</path>
+      </path>
+      <type>
+         <type>file</type>
+         <type>dir</type>
+      </type>
+      <include>
+         <include/>
+         <include/>
+      </include>
+      <ignore>
+         <ignore/>
+         <ignore/>
+      </ignore>
+   </contents>
+</_>
